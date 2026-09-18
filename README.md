@@ -20,6 +20,6 @@ Proyecto en Java que implementa el patrón Undo/Redo usando Pilas para el regist
 ### 3. Redo - Recuperación
 ![Redo](Capturas/Redo.png)
 ### 4. Video sustentacion
-Video agregado
+[Video Sustentación - Jhon Paternina](https://drive.google.com/file/d/1b2ZnQ4tXiUIS9uiKedPKxlOOuOOV5K5a/view?usp=sharing)
 Correccion final entrega
 Entrega final completada
